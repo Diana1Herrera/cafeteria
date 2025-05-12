@@ -1,0 +1,189 @@
+{
+    "page": 1,
+    "per_page": 17,
+    "total": 17,
+    "total_pages": 1,
+    "item": [
+        {
+            "id": "STRT1",
+            "name": "Macarones",
+            "description": "Dimensiones: 67 x 44 x 16 mm, Peso: 60 g, Mini rastreador personal",
+            "categoria": "GPS",
+            "activo": "Personas",
+            "precio": 1500,
+            "img": "https://cdn.pixabay.com/photo/2016/11/22/19/31/macarons-1850216_1280.jpg",
+            "especificaciones": "0 A 30 V IP68",
+            "Compatible": "No compatible"
+        },
+        {
+            "id": "STRT2",
+            "name": "Postre de arandanos",
+            "description": "Alertas de encendido/apagado-Alertas de desconex",
+            "categoria": "GPS",
+            "activo": "Camión",
+            "precio": 3300,
+            "img": "https://cdn.pixabay.com/photo/2020/07/02/23/25/dessert-5364662_1280.jpg",
+            "especificaciones": "N/A",
+            "Compatible": "STRT9, STRT10"
+        },
+        {
+            "id": "STRT3",
+            "name": "Postre tres leches",
+            "description": "GSM: 850/900/1800/1900 MHz, GPS: SIRF Star II, Rastreador para motocicletas",
+            "categoria": "GPS",
+            "activo": "Carro, Moto",
+            "precio": 3500,
+            "img": "https://cdn.pixabay.com/photo/2018/08/24/23/37/strawberries-3629130_1280.jpg",
+            "especificaciones": "N/A",
+            "Compatible": "STRT9, STRT10"
+        },
+        {
+            "id": "STRT4",
+            "name": "Torta de banano",
+            "description": "Dimensiones: 97 x 65 x 35.4 mm, Peso: 266 g, Rastreador GPS compacto",
+            "categoria": "GPS",
+            "activo": "Carga",
+            "precio": 2600,
+            "img": "https://cdn.pixabay.com/photo/2023/11/22/20/30/ai-generated-8406384_1280.png",
+            "especificaciones": "N/A",
+            "Compatible": "STRT9, STRT10"
+        },
+        {
+            "id": "STRT5",
+            "name": "Tartaleta de fresa",
+            "description": "Dimensiones: 97 x 65 x 35.4 mm, Peso: 266 g, Rastreador GPS compacto",
+            "categoria": "GPS",
+            "activo": "Carga",
+            "precio": 4100,
+            "img": "https://cdn.pixabay.com/photo/2015/12/11/16/24/strawberries-1088401_1280.jpg",
+            "especificaciones": "N/A",
+            "Compatible": "STRT9, STRT10"
+        },
+        {
+            "id": "STRT6",
+            "name": "Galleta de chocolate",
+            "description": "Voltaje de entrada: 9-90 V, Adecuado para vehículos eléctricos",
+            "categoria": "GPS",
+            "activo": "Carro, Moto",
+            "precio": 1500,
+            "img": "https://cdn.pixabay.com/photo/2017/09/18/05/56/cookies-2760773_1280.jpg",
+            "especificaciones": "9-90 V",
+            "Compatible": "STRT9, STRT10"
+        },
+        {
+            "id": "STRT7",
+            "name": "Muffins chocolate",
+            "description": "Voltaje de entrada: 9-90 V, Rastreador GPS plug and play",
+            "categoria": "GPS",
+            "activo": "Carro",
+            "precio": 3300,
+            "img": "https://cdn.pixabay.com/photo/2024/06/11/02/01/ai-generated-8821703_1280.png",
+            "especificaciones": "9-90 V",
+            "Compatible": " "
+        },
+        {
+            "id": "STRT9",
+            "name": "Tiramisu",
+            "description": "Micrófono de alta sensibilidad para grabación de audio",
+            "categoria": "ACCESORIO",
+            "activo": "Carro, Camion, Flotas",
+            "precio": 4200,
+            "img": "https://cdn.pixabay.com/photo/2024/07/20/04/58/ai-generated-8907565_1280.jpg",
+            "especificaciones": "N/A",
+            "Compatible": "STRT2, STRT3, STRT4, STRT5,  STRT7, STRT17, STRT18, STRT19, STRT20, STRT21, STRT22, STRT24"
+        },
+        {
+            "id": "STRT10",
+            "name": "Jugo de feijoa",
+            "description": "Accesorio para conexión de dispositivos adicionales",
+            "categoria": "ACCESORIO",
+            "activo": "Carro, Camion, Flotas",
+            "precio": 2200,
+            "img": "https://cdn.pixabay.com/photo/2023/10/18/08/38/milkshake-8323288_1280.jpg",
+            "especificaciones": "N/A",
+            "Compatible": "STRT2, STRT3, STRT4, STRT5, STRT7, STRT17, STRT18, STRT19, STRT20, STRT21, STRT22, STRT24"
+        },
+        {
+            "id": "STRT17",
+            "name": "Refresco de sandia",
+            "description": "Rastreador avanzado GNSS, LTE, WiFi y BLE.",
+            "categoria": "GPS",
+            "activo": "Carga",
+            "precio": 2200,
+            "img": "https://cdn.pixabay.com/photo/2024/05/13/06/54/ai-generated-8758246_1280.jpg",
+            "especificaciones": "N/A",
+            "Compatible": "STRT9, STRT10"
+        },
+        {
+            "id": "STRT18",
+            "name": "Limonada hierbabuena",
+            "description": "Candado electrónico GPS con energía solar.",
+            "categoria": "GPS",
+            "activo": "Flotas",
+            "precio": 3500,
+            "img": "https://cdn.pixabay.com/photo/2024/05/13/06/54/ai-generated-8758245_1280.jpg",
+            "especificaciones": "N/A",
+            "Compatible": "STRT9, STRT10"
+        },
+        {
+            "id": "STRT19",
+            "name": "Té de frutos rojos",
+            "description": "Cerradura electrónica GPS con energía solar.",
+            "categoria": "GPS",
+            "activo": "Flotas",
+            "precio": 2200,
+            "img": "https://cdn.pixabay.com/photo/2024/10/06/16/23/tea-9100594_1280.jpg",
+            "especificaciones": "N/A",
+            "Compatible": "STRT9, STRT10"
+        },
+        {
+            "id": "STRT20",
+            "name": "Torta de manzana",
+            "description": "Rastreador GNSS y LTE para flotas.",
+            "categoria": "GPS",
+            "activo": "Flotas",
+            "precio": 3500,
+            "img": "https://cdn.pixabay.com/photo/2024/10/07/22/09/ai-generated-9103928_1280.jpg",
+            "especificaciones": "N/A",
+            "Compatible": "STRT9, STRT10"
+        },
+        {
+            "id": "STRT21",
+            "name": "Tostadas Francesas",
+            "description": "Rastreador GPS con BLE y alertas.",
+            "categoria": "GPS",
+            "activo": "VEHÍCULOS",
+            "precio": 3800,
+            "img": "https://cdn.pixabay.com/photo/2023/12/12/15/58/ai-generated-8445493_1280.jpg",
+            "especificaciones": "N/A",
+            "Compatible": "STRT9, STRT10"
+        },
+        {
+            "id": "STRT22",
+            "name": "Pancake",
+            "description": "Rastreador GPS 4G con interfaz OBDII.",
+            "categoria": "GPS",
+            "activo": "Flotas",
+            "precio": 5500,
+            "img": "https://cdn.pixabay.com/photo/2024/02/22/06/50/breakfast-8589241_1280.png",
+            "especificaciones": "N/A",
+            "Compatible": ""
+        },
+        {
+            "id": "STRT24",
+            "name": "Merengue",
+            "description": "Rastreador GPS robusto con conectividad 4G.",
+            "categoria": "GPS",
+            "activo": "Flotas",
+            "precio": 4200,
+            "img": "https://cdn.pixabay.com/photo/2024/03/01/10/52/ai-generated-8606229_1280.jpg",
+            "especificaciones": "N/A",
+            "Compatible": "STRT9, STRT10"
+        }
+    ],
+    "ad": {
+        "company": "Start ioT",
+        "url": "http://startiot.com/",
+        "text": "Proveedores de soluciones GPS, seguridad electrónica y rastreo satelital."
+    }
+}
